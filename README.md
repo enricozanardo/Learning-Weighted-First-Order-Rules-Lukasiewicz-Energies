@@ -39,6 +39,12 @@ Canonical output: `reference_results.json`. Live runs write `results.json` and `
 └── reference_results.json
 ```
 
+## Releases & archival
+
+- **GitHub** release `v1.0.0`: https://github.com/enricozanardo/Learning-Weighted-First-Order-Rules-Lukasiewicz-Energies/releases/tag/v1.0.0
+- **Software Heritage** snapshot: `swh:1:snp:50c81c376e0baef36989488ac16f13c6be23f80f`
+- **Zenodo DOI:** enable this repository at [Zenodo GitHub settings](https://zenodo.org/account/settings/github/), then mint a DOI from the tagged release (same workflow as the inference companion `10.5281/zenodo.19820157`). Update `CITATION.cff` and the manuscript BibTeX entry once the DOI is issued.
+
 ## Citation
 
 ```bibtex
@@ -47,8 +53,9 @@ Canonical output: `reference_results.json`. Live runs write `results.json` and `
   title        = {Numerical validation for ``Learning Weighted First-Order Rules
                   under Piecewise-Linear {\L}ukasiewicz Energies'' (v1.0.0)},
   year         = {2026},
-  howpublished = {Software, Zenodo},
-  note         = {Companion code; see repository README for the archival DOI}
+  howpublished = {Software},
+  url          = {https://github.com/enricozanardo/Learning-Weighted-First-Order-Rules-Lukasiewicz-Energies/releases/tag/v1.0.0},
+  note         = {MIT; Software Heritage snapshot swh:1:snp:50c81c376e0baef36989488ac16f13c6be23f80f}
 }
 ```
 
