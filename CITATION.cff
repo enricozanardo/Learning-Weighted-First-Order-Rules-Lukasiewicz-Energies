@@ -36,5 +36,9 @@ keywords:
   - neuro-symbolic AI
   - reproducibility
 license: MIT
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-08-17
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21980236
+url: https://doi.org/10.5281/zenodo.21980236
